@@ -1,0 +1,7 @@
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\obj\Debug\PerimeterandAreaclassrooms.csprojResolveAssemblyReference.cache
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\obj\Debug\PerimeterandAreaclassrooms.csproj.CoreCompileInputs.cache
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\bin\Debug\PerimeterandAreaclassrooms.exe.config
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\bin\Debug\PerimeterandAreaclassrooms.exe
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\bin\Debug\PerimeterandAreaclassrooms.pdb
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\obj\Debug\PerimeterandAreaclassrooms.exe
+C:\Users\Abe\source\repos\PerimeterandAreaclassrooms\PerimeterandAreaclassrooms\obj\Debug\PerimeterandAreaclassrooms.pdb
