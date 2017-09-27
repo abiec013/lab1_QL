@@ -15,7 +15,7 @@ namespace PerimeterandAreaclassrooms
             while (ProgramExits == true)
 
             {
-                //prompt user to enter values
+                //prompts user to enter values
                 Console.WriteLine("Welcome to Grand Circus");
                 Console.WriteLine("Please enter width value.");
 
@@ -39,7 +39,7 @@ namespace PerimeterandAreaclassrooms
 
 
 
-
+                // user 
 
                 string userChoice;
                 Console.WriteLine("Do you want to run this again?");
