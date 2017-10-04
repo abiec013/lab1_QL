@@ -40,19 +40,29 @@ namespace PerimeterandAreaclassrooms
 
 
                 // user 
-
-                string userChoice;
-                Console.WriteLine("Do you want to run this again?");
-
-                userChoice = Console.ReadLine();
-
-                if (userChoice == "no" || userChoice == "No")
+                bool lastdecision = true;
+                while (lastdecision == true)
                 {
-                    ProgramExits = false;
+                    string userChoice;
+                    Console.WriteLine("Do you want to run this again? yes or no");
+
+                    userChoice = Console.ReadLine();
+
+                    if (userChoice == "no" || userChoice == "No")
+                    {
+                        ProgramExits = false;
+                        Console.WriteLine("Bye bye");
+                        break;
+                    }
+                    else if (userChoice == "yes" || userChoice == "Yes" || userChoice == " ")
+                    {
+                        lastdecision = false;
+                    }
+                    else
+                    {
+                        lastdecision = true;
+                    }
                 }
-
-
-
 
 
             }
